@@ -1,0 +1,24 @@
+#sum of two numbers
+a=10
+b=7
+print(a+b)
+#subraction of two numbers
+a=10
+b=9
+print(a-b)
+#multiplication of two numbers
+a=67
+b=78
+print(a*b)
+#division of two numbers
+a=15
+b=5
+print("sum:",a/b)
+#modulus of two numbers
+a=7
+b=3
+print(a%b)
+#power of two numbers
+a=10
+b=3
+print(a**b)
